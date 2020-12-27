@@ -6,5 +6,5 @@ Lesson 7 Archery Academy
 
 - Added skip to main-content to skip to private classes
 
-- add <h2 class="class-schedules" id="class-times">Straight to the Point archery Classes</h2>
-  This will allow the screen reader to read the label.
+- added line 33 in classes.html
+  role="main" aria-labelledby="class-times"
